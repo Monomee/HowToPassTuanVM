@@ -4,16 +4,27 @@ This is the way to pass TuanVM
 Target: 750LOC to pass
 
 LinearSearch           50LOC
+
 Fibonacci              50LOC
+
 ChangeBase             100LOC
+
 StudentManagement      175LOC
+
 FruitShop              175LOC
+
 //BONUS
+
 Tết                    50LOC
+
 Đi đủ 4 buổi đầu       50LOC
+
 Đi học đủ              50LOC
+
 Không bị reject        50LOC
+
 Đủ cả 3 tiêu chí trên  50LOC
+
 -----------------------------
 Total                  800LOC
 
