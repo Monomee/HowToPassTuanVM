@@ -2,6 +2,7 @@
 This is the way to pass TuanVM
 
 Target: 750LOC to pass
+-----------------------------
 
 LinearSearch           50LOC
 
