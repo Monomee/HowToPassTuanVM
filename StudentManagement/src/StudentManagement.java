@@ -199,9 +199,9 @@ public class StudentManagement {
         //Java
         courseReport("Java", studentList);
         //.Net
-        courseReport(" Net", studentList);
+        courseReport(".Net", studentList);
         //C/C++
-        courseReport("C/C", studentList);
+        courseReport("C/C++", studentList);
     }
     void courseReport(String courseName, ArrayList<Student> studentList){
         int count;
