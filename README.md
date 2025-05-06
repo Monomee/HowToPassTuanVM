@@ -1,34 +1,37 @@
 # HowToPassTuanVM
-This is the way to pass TuanVM
+This is one of the ways to pass TuanVM
 
-Target: 750LOC to pass
------------------------------
+## Target: 750LOC to pass
+<img alt="Static Badge" src="https://img.shields.io/badge/Strategy-blue">
 
-LinearSearch           50LOC
+ Assignments          | LOCS 
+----------------------|-------------
+ LinearSearch         |  50
+                      | 
+ Fibonacci            |  50
+                      |
+ ChangeBase           |  100
+                      |
+ StudentManagement    |  175
+                      |
+ FruitShop            |  175
+----------------------|-------------
+ BONUS                |     
+----------------------|-------------
+Tết (nếu có)          |  50
+                      |
+Đi đủ 4 buổi đầu      |  50
+                      |
+Đi học đủ             |  50
+                      |
+Không bị reject       |  50
+                      |
+Đủ cả 3 tiêu chí trên |  50 
+                      |
+----------------------|-------------
+Total                 |  800 
 
-Fibonacci              50LOC
-
-ChangeBase             100LOC
-
-StudentManagement      175LOC
-
-FruitShop              175LOC
-
-//BONUS
-
-Tết                    50LOC
-
-Đi đủ 4 buổi đầu       50LOC
-
-Đi học đủ              50LOC
-
-Không bị reject        50LOC
-
-Đủ cả 3 tiêu chí trên  50LOC
-
------------------------------
-Total                  800LOC
-
+--------------------------------------------------------------------------------------------------------------
 How I passed TuanVM:
 1. Ngoan, thay vì cãi, hãy lắng nghe, cố gắng đi 
 2. Học hỏi, trước mỗi bài, hãy đặt vài câu hỏi về cái bài ấy (SAU KHI ĐÃ đọc kĩ và phân tích đề), thường hỏi những cái không đề cập trong đề, cố gắng hỏi nhiều cho thấy sự cố gắng, thầy sẽ thương =))
