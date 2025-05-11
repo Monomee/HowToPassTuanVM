@@ -27,8 +27,8 @@ Tết (nếu có)          |  50
 Không bị reject       |  50
                       |
 Đủ cả 3 tiêu chí trên |  50 
-------------------------------------
-<img alt="Static Badge" src="https://img.shields.io/badge/Total-purple">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Total-purple"> 800
 
 --------------------------------------------------------------------------------------------------------------
 How I passed TuanVM:
