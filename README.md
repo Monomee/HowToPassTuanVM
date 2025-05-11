@@ -1,34 +1,23 @@
 # HowToPassTuanVM
 This is one of the ways to pass TuanVM
 
-## Target: 750LOC to pass
-<img alt="Static Badge" src="https://img.shields.io/badge/Strategy-blue">
+## 🎯 Target: 750 LOCs to pass
+![Static Badge](https://img.shields.io/badge/Strategy-blue)
 
- Assignments          | LOCS 
-----------------------|-------------
- LinearSearch         |  50
-                      | 
- Fibonacci            |  50
-                      |
- ChangeBase           |  100
-                      |
- StudentManagement    |  175
-                      |
- FruitShop            |  175
-                      |
- BONUS                |
-                      |
-Tết (nếu có)          |  50
-                      |
-Đi đủ 4 buổi đầu      |  50
-                      |
-Đi học đủ             |  50
-                      |
-Không bị reject       |  50
-                      |
-Đủ cả 3 tiêu chí trên |  50 
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Total-purple"> 800
+| 📄 Assignments         | 📊 LOCs |
+|------------------------|--------|
+| LinearSearch           | 50     |
+| Fibonacci              | 50     |
+| ChangeBase             | 100    |
+| StudentManagement      | 175    |
+| FruitShop              | 175    |
+| **BONUS**              |        |
+| Tết (nếu có)           | 50     |
+| Đi đủ 4 buổi đầu       | 50     |
+| Đi học đủ              | 50     |
+| Không bị reject        | 50     |
+| Đủ cả 3 tiêu chí trên  | 50     |
+| **Total**              | **800**|
 
 --------------------------------------------------------------------------------------------------------------
 How I passed TuanVM:
