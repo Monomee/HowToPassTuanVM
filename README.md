@@ -15,9 +15,9 @@ This is one of the ways to pass TuanVM
  StudentManagement    |  175
                       |
  FruitShop            |  175
-----------------------|-------------
- BONUS                |     
-----------------------|-------------
+                      |
+ BONUS                |
+                      |
 Tết (nếu có)          |  50
                       |
 Đi đủ 4 buổi đầu      |  50
@@ -27,7 +27,6 @@ Tết (nếu có)          |  50
 Không bị reject       |  50
                       |
 Đủ cả 3 tiêu chí trên |  50 
-                      |
 ----------------------|-------------
 Total                 |  800 
 
